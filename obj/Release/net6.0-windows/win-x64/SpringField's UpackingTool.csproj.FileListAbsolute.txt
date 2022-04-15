@@ -1,0 +1,19 @@
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\bin\Release\net6.0-windows\win-x64\SpringField's UpackingTool.exe
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\bin\Release\net6.0-windows\win-x64\SpringField's UpackingTool.deps.json
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\bin\Release\net6.0-windows\win-x64\SpringField's UpackingTool.runtimeconfig.json
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\bin\Release\net6.0-windows\win-x64\SpringField's UpackingTool.dll
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\bin\Release\net6.0-windows\win-x64\SpringField's UpackingTool.pdb
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.csproj.AssemblyReference.cache
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField_s_UpackingTool.Form1.resources
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField_s_UpackingTool.Form2.resources
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField_s_UpackingTool.Properties.Resources.resources
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.csproj.GenerateResource.cache
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.AssemblyInfoInputs.cache
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.AssemblyInfo.cs
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.csproj.CoreCompileInputs.cache
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.dll
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\refint\SpringField's UpackingTool.dll
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.pdb
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\SpringField's UpackingTool.genruntimeconfig.cache
+C:\Users\43179\source\repos\SpringField's UpackingTool\SpringField's UpackingTool\obj\Release\net6.0-windows\win-x64\ref\SpringField's UpackingTool.dll
