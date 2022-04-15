@@ -89,39 +89,39 @@ namespace SpringField_s_UpackingTool
             return result;
         }
 
-        public static FileType getType(string typeName)
+        public static FileType getType(int typeIndex)
         {
-            switch (typeName)
+            switch (typeIndex)
             {
-                case "character":
+                case 0:
                     return FileType.character;
-                case "spine":
+                case 1:
                     return FileType.spine;
-                case "live2dcharacter":
+                case 2:
                     return FileType.live2dcharacter;
-                case "live2dfairy":
+                case 3:
                     return FileType.live2dfairy;
-                case "live2dsquad":
+                case 4:
                     return FileType.live2dsquad;
-                case "live2dbackground":
+                case 5:
                     return FileType.live2dbg;
-                case "resource":
+                case 6:
                     return FileType.resource;
-                case "atlasclip":
+                case 7:
                     return FileType.atlasclips;
-                case "actorvoice":
+                case 8:
                     return FileType.acb;
-                case "anime":
+                case 9:
                     return FileType.usm;
-                case "furniture":
+                case 10:
                     return FileType.furniture;
-                case "sprite":
+                case 11:
                     return FileType.sprites;
-                case "map":
+                case 12:
                     return FileType.assetmap;
-                case "particles":
+                case 13:
                     return FileType.assetparticles;
-                case "other":
+                case 14:
                     return FileType.other;
 
             }

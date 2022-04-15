@@ -989,7 +989,7 @@ namespace SpringField_s_UpackingTool
                     break;
             }
             label7.Refresh();
-            foreach (string checkBox in checkedListBox3.CheckedItems)
+            foreach (int checkBox in checkedListBox3.CheckedIndices)
             {
                 classifyVarType(FrameWork.getType(checkBox),savePath);
             }
@@ -1145,7 +1145,7 @@ namespace SpringField_s_UpackingTool
                     break;
 
                 case FileType.furniture:
-                    TotalClassify(furniture, i, savePath, FileType.furniture, "Furniture", checkBox2.Checked, checkBox1.Checked,"furniture");
+                    TotalClassify(furniture, i, savePath, FileType.furniture, "Furniture", checkBox2.Checked, checkBox1.Checked,"resource");
                     break;
 
                 case FileType.character:
@@ -1519,7 +1519,7 @@ namespace SpringField_s_UpackingTool
                     break;
                 case 10:
                     folderName = "SelectedFurniture";
-                    TotalClassify(names, i, targetPath, FileType.furniture, folderName, checkBox9.Checked, checkBox9.Checked, "furniture");
+                    TotalClassify(names, i, targetPath, FileType.furniture, folderName, checkBox9.Checked, checkBox9.Checked, "resource");
                     break;
                 case 11:
                     folderName = "SelectedSprite";
